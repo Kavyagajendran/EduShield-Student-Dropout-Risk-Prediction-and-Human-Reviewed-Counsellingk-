@@ -1,0 +1,32 @@
+# Node dependencies & artifacts
+node_modules/
+dist/
+build/
+.npm/
+
+# Python & ML artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Docker
+.docker/
+
